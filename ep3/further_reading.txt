@@ -1,0 +1,4 @@
+https://www.h-schmidt.net/FloatConverter/IEEE754.html
+https://en.wikipedia.org/wiki/IEEE_754
+https://en.wikipedia.org/wiki/Single-precision_floating-point_format
+
