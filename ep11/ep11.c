@@ -42,7 +42,7 @@ int multiply (int x, int y)
 float divide (int x, int y)
 {
     if (y == 0) {
-        printf("Δεν μπορώ να διεραίσω διά 0.\n");
+        printf("Δεν μπορώ να διαιρέσω διά 0.\n");
         return -1;
     }
 
