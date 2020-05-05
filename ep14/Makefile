@@ -1,7 +1,7 @@
 CFLAGS = -Wall -g
 SOURCES = $(wildcard *.c)
 OBJECTS = $(patsubst %.c, %.o, $(SOURCES))
-TARGET = ep13
+TARGET = ep14
 
 
 all: $(TARGET)
